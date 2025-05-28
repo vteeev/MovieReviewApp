@@ -12,3 +12,11 @@ Watching Thryler
 Adding Reviews
 
 ![SC4](https://github.com/user-attachments/assets/5ef8bbea-bfdb-4885-b856-ffd3793c71d9)
+
+ - Baza danych to NoSql MongoDb 
+ - Beckend to Java ze springiem
+ - Wszystko łączy ngrok który umozliwia połącznie  mojego backend z localhost:8080 na aplikacje react localhost:3000
+   
+I baza:
+
+![Mdb](https://github.com/user-attachments/assets/d7fcdebb-e7fc-4632-973b-ba1cb8d95361)
