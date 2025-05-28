@@ -1,5 +1,4 @@
 # MovieReviewApp
-using ngrok to comunicate backend and frontend
 
 ![SC1](https://github.com/user-attachments/assets/27d31da0-f582-4219-a700-a278d95ee0fe)
 
